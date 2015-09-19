@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.staszek.enlightenment-and-rhythm" version="1.0.0">
-  <name>Oświecenie i Rytm</name>
+  <name>Oświecenie i rytm</name>
   <description>Zostań oświecony i poczuj rytm</description>
   <author email="studia.amw@gmail.com">Stanislaw Siemaszko</author>
   <content src="index.html"/>

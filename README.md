@@ -1,2 +1,2 @@
 # enlightenment-and-rhythm
-OÅ›wiecenie i rytm
+Oœwiecenie i rytm
